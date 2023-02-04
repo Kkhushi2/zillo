@@ -1,0 +1,26 @@
+.mainhome{
+     height: 100vh;
+
+}
+.home1{
+    background-color: #131C1E;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    align-items: center;
+    font-size: 40px;
+}
+.home2{
+     background-color: #1FA85B;
+}
+.home1 button{
+     background-color: yellow;
+     color: black;
+     font-size: 20px;
+     box-shadow: 5px 5px #ffff;
+     height: 50px;
+     width: 200px;
+
+}
